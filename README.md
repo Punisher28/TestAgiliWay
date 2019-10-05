@@ -1,28 +1,17 @@
-# Docker Container Name
+#### Project File 
 
-A one paragraph description about the container.
+* `\Nginx\www\test.loc\` - File location
+**Level1.php && input1.txt** - Class and txt file for Level 1 in task.
 
-## Getting Started
+**Level2.php && input1.txt** - Class and txt file for Level 2 in task.
 
-These instructions will cover usage information and for the docker container 
-
-### Prerequisities
-
-In order to run this container you'll need docker installed.
-
-* [Windows](https://docs.docker.com/windows/started)
-* [OS X](https://docs.docker.com/mac/started/)
-* [Linux](https://docs.docker.com/linux/started/)
-
-#### Volumes
-
-* `/your/file/location` - File location
+**Index.php** - File for simple view merge two classes.
 
 ## Find Us
 
-* [GitHub](https://github.com/your/repository)
-* [Quay.io](https://quay.io/repository/your/docker-repository)
+* [GitHub](https://github.com/Punisher28/TestAgiliWay)
+* [Docker Hub](https://hub.docker.com/r/developer98/testagiliway)
 
 ## Authors
 
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
+* **Yaroslav Khas** - *Initial work* - [PurpleBooth](https://github.com/Punisher28)
