@@ -1,6 +1,7 @@
 #### Project File 
 
-* `\Nginx\www\test.loc\` - File location
+* `\Nginx\www\test.loc\` - File location.
+
 **Level1.php && input1.txt** - Class and txt file for Level 1 in task.
 
 **Level2.php && input1.txt** - Class and txt file for Level 2 in task.
