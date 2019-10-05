@@ -15,4 +15,4 @@
 
 ## Authors
 
-* **Yaroslav Khas** - *Initial work* - [PurpleBooth](https://github.com/Punisher28)
+* **Yaroslav Khas** - *php-dev* - [Git](https://github.com/Punisher28)
