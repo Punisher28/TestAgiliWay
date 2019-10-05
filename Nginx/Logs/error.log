@@ -1,0 +1,20 @@
+2019/10/04 19:17:50 [emerg] 1#1: unknown "mage_root" variable
+2019/10/04 19:22:55 [emerg] 1#1: unknown "mage_root" variable
+2019/10/04 19:26:54 [emerg] 1#1: unknown "mage_root" variable
+2019/10/04 19:27:59 [emerg] 1#1: unknown "mage_root" variable
+2019/10/04 19:38:13 [emerg] 1#1: unknown "mage_root" variable
+2019/10/04 19:43:59 [emerg] 1#1: unknown "mage_root" variable
+2019/10/04 19:46:28 [emerg] 1#1: directive "set" is not terminated by ";" in /etc/nginx/conf.d/nginx.conf:9
+2019/10/04 19:47:05 [emerg] 1#1: invalid number of arguments in "root" directive in /etc/nginx/conf.d/nginx.conf:7
+2019/10/04 19:49:37 [error] 6#6: *1 "/etc/nginx/html/index.php" is not found (2: No such file or directory), client: 172.25.0.1, server: test.loc, request: "GET / HTTP/1.1", host: "test.loc"
+2019/10/04 19:49:39 [error] 6#6: *1 open() "/etc/nginx/html/favicon.ico" failed (2: No such file or directory), client: 172.25.0.1, server: test.loc, request: "GET /favicon.ico HTTP/1.1", host: "test.loc", referrer: "http://test.loc/"
+2019/10/04 19:49:50 [error] 6#6: *3 "/etc/nginx/html/index.php" is not found (2: No such file or directory), client: 172.25.0.1, server: test.loc, request: "GET / HTTP/1.1", host: "localhost"
+2019/10/04 19:49:51 [error] 6#6: *3 open() "/etc/nginx/html/favicon.ico" failed (2: No such file or directory), client: 172.25.0.1, server: test.loc, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2019/10/04 19:50:01 [error] 6#6: *5 "/etc/nginx/html/index.php" is not found (2: No such file or directory), client: 172.25.0.1, server: test.loc, request: "GET / HTTP/1.1", host: "test.loc"
+2019/10/04 19:50:11 [error] 6#6: *8 open() "/etc/nginx/htmllast" failed (2: No such file or directory), client: 172.25.0.1, server: test.loc, request: "GET /index.php HTTP/1.1", host: "test.loc"
+2019/10/04 19:52:49 [error] 6#6: *1 open() "/etc/nginx/htmllast" failed (2: No such file or directory), client: 172.25.0.1, server: test.loc, request: "GET / HTTP/1.1", host: "test.loc"
+2019/10/04 19:54:46 [error] 6#6: *1 open() "/etc/nginx/htmllast" failed (2: No such file or directory), client: 172.25.0.1, server: test.loc, request: "GET / HTTP/1.1", host: "test.loc"
+2019/10/04 19:56:37 [error] 6#6: *1 open() "/etc/nginx/htmllast" failed (2: No such file or directory), client: 172.25.0.1, server: test.loc, request: "GET / HTTP/1.1", host: "test.loc"
+2019/10/04 19:56:40 [error] 6#6: *1 open() "/etc/nginx/htmllast" failed (2: No such file or directory), client: 172.25.0.1, server: test.loc, request: "GET / HTTP/1.1", host: "test.loc"
+2019/10/04 19:56:49 [error] 6#6: *3 open() "/etc/nginx/htmllast" failed (2: No such file or directory), client: 172.25.0.1, server: test.loc, request: "GET / HTTP/1.1", host: "localhost"
+2019/10/04 20:06:33 [error] 6#6: *1 open() "/etc/nginx/htmllast" failed (2: No such file or directory), client: 172.25.0.1, server: test.loc, request: "GET / HTTP/1.1", host: "test.loc"
